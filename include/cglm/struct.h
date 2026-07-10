@@ -34,7 +34,6 @@ extern "C" {
 #include "struct/noise.h"
 #include "struct/box.h"
 #include "struct/color.h"
-#include "struct/io.h"
 #include "struct/cam.h"
 #include "struct/quat.h"
 #include "struct/euler.h"
